@@ -23,7 +23,7 @@ import {
 const CLIENT = {
   name: "Patricia & Gerald Whitfield",
   initials: "PG",
-  advisor: { name: "Michael Kendrick, CFP®", role: "Senior Financial Advisor", office: "Allworth Sacramento", initials: "MK" },
+  advisor: { name: "Jeffrey Green", role: "Chief People Officer", office: "Allworth Financial, Texas ", initials: "JG" },
   lastSync: "Apr 05, 2026 · 9:41 AM EST",
   dataSource: "Schwab Custody · Orion Portfolio Analytics",
 
